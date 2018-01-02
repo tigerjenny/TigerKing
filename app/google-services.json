@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "249137134408",
+    "firebase_url": "https://tigerking-bde24.firebaseio.com",
+    "project_id": "tigerking-bde24",
+    "storage_bucket": "tigerking-bde24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249137134408:android:d2f6b41d6779ce3f",
+        "android_client_info": {
+          "package_name": "com.jenny.tigerking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249137134408-niprnaqmtbdcva59e8n4hs0fhjkk4c2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jenny.tigerking",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "249137134408-86f5j6fvii9otepo2nva9rthbue46ngk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-sDRLS4Y5aHztveIqGgNBdwzFLqHytFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249137134408-86f5j6fvii9otepo2nva9rthbue46ngk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
